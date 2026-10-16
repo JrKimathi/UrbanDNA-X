@@ -11,6 +11,32 @@ Infrastructure intelligence platform that connects citizens, GIS, AI, and author
 [![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase)](https://firebase.google.com)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Run%20%2B%20SQL-4285F4?logo=googlecloud)](https://cloud.google.com)
 
+[![Latest Release](https://img.shields.io/github/v/release/JrKimathi/UrbanDNA-X?color=007AFF&label=latest%20release)](https://github.com/JrKimathi/UrbanDNA-X/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/JrKimathi/UrbanDNA-X/total?color=28a745)](https://github.com/JrKimathi/UrbanDNA-X/releases)
+
+---
+
+## Download the App
+
+> **Ready to try UrbanDNA X on your Android phone?**
+>
+> **[Download the latest APK](https://github.com/JrKimathi/UrbanDNA-X/releases/download/v1.0.0/urbanDNA.apk)**
+
+
+>
+> **File:** `urbanDNA.apk` · **Size:** ~90 MB · **Requires:** Android 8.0 (Oreo) or later
+
+### Installation
+
+1. Tap the download link above on your Android phone.
+2. If prompted, allow installation from this source.
+3. Open the downloaded file and tap **Install**.
+4. Launch **UrbanDNA X** and sign up.
+
+> **Note:** You may see Android's "Install from unknown sources" warning because this APK is distributed outside the Play Store. This is normal for pre-release builds.
+
+All versions: [view all releases →](https://github.com/JrKimathi/UrbanDNA-X/releases/download/v1.0.0/urbanDNA.apk)
+
 ---
 
 ## Table of Contents
