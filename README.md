@@ -19,7 +19,7 @@ Infrastructure intelligence platform that connects citizens, GIS, AI, and author
 ## Download the App
 
 > **Ready to try UrbanDNA X on your Android phone?**
->
+
 > **[Download the latest APK](https://github.com/JrKimathi/UrbanDNA-X/releases/download/v1.0.0/urbanDNA.apk)**
 
 
